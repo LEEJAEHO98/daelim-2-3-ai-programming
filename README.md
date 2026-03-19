@@ -10,3 +10,9 @@
 -Git 설치 및 실행
 -Python설치
 -Jupyter Notebook 설치# daelim-2-3-ai-programming
+
+## 3주차
+
+-git 실행 완료
+-조건문 반복문
+-python 실행
