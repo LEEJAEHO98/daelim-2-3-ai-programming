@@ -7,6 +7,6 @@
 
 ## 2주차
 
--Git 설치
+-Git 설치 및 실행
 -Python설치
--Jupyter Notebook 설치
+-Jupyter Notebook 설치# daelim-2-3-ai-programming
